@@ -1,0 +1,11 @@
+C:\Users\onury\OneDrive\Masaüstü\persistData\ContosoPets.DataAccess\bin\Debug\netstandard2.0\ContosoPets.DataAccess.deps.json
+C:\Users\onury\OneDrive\Masaüstü\persistData\ContosoPets.DataAccess\bin\Debug\netstandard2.0\ContosoPets.DataAccess.dll
+C:\Users\onury\OneDrive\Masaüstü\persistData\ContosoPets.DataAccess\bin\Debug\netstandard2.0\ContosoPets.DataAccess.pdb
+C:\Users\onury\OneDrive\Masaüstü\persistData\ContosoPets.DataAccess\bin\Debug\netstandard2.0\ContosoPets.Domain.dll
+C:\Users\onury\OneDrive\Masaüstü\persistData\ContosoPets.DataAccess\bin\Debug\netstandard2.0\ContosoPets.Domain.pdb
+C:\Users\onury\OneDrive\Masaüstü\persistData\ContosoPets.DataAccess\obj\Debug\netstandard2.0\ContosoPets.DataAccess.csprojAssemblyReference.cache
+C:\Users\onury\OneDrive\Masaüstü\persistData\ContosoPets.DataAccess\obj\Debug\netstandard2.0\ContosoPets.DataAccess.AssemblyInfoInputs.cache
+C:\Users\onury\OneDrive\Masaüstü\persistData\ContosoPets.DataAccess\obj\Debug\netstandard2.0\ContosoPets.DataAccess.AssemblyInfo.cs
+C:\Users\onury\OneDrive\Masaüstü\persistData\ContosoPets.DataAccess\obj\Debug\netstandard2.0\ContosoPets.DataAccess.csproj.CopyComplete
+C:\Users\onury\OneDrive\Masaüstü\persistData\ContosoPets.DataAccess\obj\Debug\netstandard2.0\ContosoPets.DataAccess.dll
+C:\Users\onury\OneDrive\Masaüstü\persistData\ContosoPets.DataAccess\obj\Debug\netstandard2.0\ContosoPets.DataAccess.pdb
